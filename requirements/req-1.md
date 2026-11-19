@@ -6,4 +6,4 @@ itemType: Requirement
 
 ## Item fields
 ### Description
-Version 1 text: the dose limit is 10 units.
+Version 2 text: the dose limit is 20 units.
